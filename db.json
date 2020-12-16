@@ -1,0 +1,88 @@
+{
+    "user" : [
+        {
+            "id": 1,
+            "nama": "hariyono",
+            "alamat": "Mootilango",
+            "umur": 23,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 2,
+            "nama": "idris",
+            "alamat": "Mootilango",
+            "umur": 24,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 3,
+            "nama": "andry",
+            "alamat": "Mootilango",
+            "umur": 23,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 4,
+            "nama": "hariyono",
+            "alamat": "Mootilango",
+            "umur": 23,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 5,
+            "nama": "idris",
+            "alamat": "Mootilango",
+            "umur": 24,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 6,
+            "nama": "andry",
+            "alamat": "Mootilango",
+            "umur": 23,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 7,
+            "nama": "hariyono",
+            "alamat": "Mootilango",
+            "umur": 23,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 8,
+            "nama": "idris",
+            "alamat": "Mootilango",
+            "umur": 24,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 9,
+            "nama": "andry",
+            "alamat": "Mootilango",
+            "umur": 23,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 10,
+            "nama": "hariyono",
+            "alamat": "Mootilango",
+            "umur": 23,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 11,
+            "nama": "idris",
+            "alamat": "Mootilango",
+            "umur": 24,
+            "kontak": "08xxxxxx"
+          },
+          {
+            "id": 12,
+            "nama": "andry",
+            "alamat": "Mootilango",
+            "umur": 23,
+            "kontak": "08xxxxxx"
+          }
+    ]
+}
